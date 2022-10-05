@@ -1,0 +1,88 @@
+@font-face {
+   font-family: "MiFuentePersonal";
+   src: url("/fonts/Nutmeg-Bold.ttf") format("opentype");
+ }
+body{
+   font-family: MiFuentePersonal;
+ 
+   overflow-x: hidden; 
+   overflow-y: scroll;
+}
+.grado{
+
+   background:  linear-gradient(#676D72  70%, rgb(0, 50, 108) 30%);
+}
+h1{
+   color: #015DB1;
+   
+}
+p{
+   margin: 0;
+   color: #00326c;
+   
+}
+.pO{
+   color: #FF6C00;
+}
+.pB{
+   color: #37aefe;
+   text-decoration: none;
+   
+}
+a{
+   color: #37aefe;
+}
+h5{
+   
+   color: #FF6C00;
+   margin: 0;
+}
+samp{
+   color: #676D72;
+   font-size: 20px;
+}
+.tel{
+   background-color: #57BBFF;
+   color: white;
+   top: 12%;
+   left: 85%;
+   text-decoration: none;
+}
+.f1{
+   position: absolute;  
+   left: -7%;
+}
+.f2{
+   position: absolute;  
+   top: 47%;
+   left: 92%;
+   
+}
+.puntos{
+   position: absolute;  
+   left: 6%;
+   top: 70%;
+}
+.cup{
+  font-size: 20px;
+   outline:none;
+   width: 90%;
+   
+}
+.continuar{
+   background-color: #015DB1;
+   color: white;
+   width: 100%;
+   height: 100%; 
+}
+.pcurp{
+   color: #676D72;
+}
+span{
+   background-color: #37AEFE;
+   color: white;
+   border-radius: 100%;
+   padding-left: 5.2px;
+   padding-right: 5.2px;
+}
+
