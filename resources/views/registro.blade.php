@@ -13,7 +13,7 @@
     <main class="container-fluid " >
         <!-- top-->
         <div class="row  align-items-center" >
-            <div class="col-9 col-xl">
+            <div class="col-12 col-xl-8">
                 <img class="px-5 " src="/icons/logo_jaliscosedefiende.png" alt="">
                 <img class="px-5 mx-3 border-2 border-start" src="/icons/logo_jal.png" alt="">
             </div>
